@@ -1,0 +1,10 @@
+{
+  "invoice_id": "INV123",
+  "date": "2025-05-30",
+  "amount": 1299.99,
+  "vendor": "Acme Corp",
+  "items": [
+    {"name": "Item A", "qty": 2},
+    {"name": "Item B", "qty": 3}
+  ]
+}

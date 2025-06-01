@@ -1,0 +1,19 @@
+Hello,
+
+We are interested in getting a quote for 100 units of your product. Please respond with an RFQ at your earliest convenience.
+
+Regards,  
+Procurement Team
+From: procurement@acme-corp.com
+To: sales@yourcompany.com
+Subject: Request for Quotation - New Hardware
+
+Dear Team,
+
+We are looking to procure 20 high-performance routers for our upcoming branch deployment. Please send us a detailed quotation at the earliest.
+
+This request is urgent as we need delivery by the end of this week.
+
+Thanks & Regards,  
+Procurement Team  
+ACME Corp

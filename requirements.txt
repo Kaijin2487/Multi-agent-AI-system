@@ -1,0 +1,13 @@
+openai
+python-dotenv
+PyMuPDF
+filetype
+redis
+email-validator
+pydantic
+PyMuPDF
+venv/
+__pycache__/
+*.log
+*.db
+.env
