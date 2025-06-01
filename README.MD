@@ -21,7 +21,7 @@ This system accepts input in **PDF, JSON, or Email (TXT)** format, classifies th
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/your-username/multi-agent-classifier
+git clone https://github.com/Kaijin2487/Multi-agent-AI-system.git
 cd multi-agent-classifier
 python -m venv venv
 venv\Scripts\activate   # On Windows
